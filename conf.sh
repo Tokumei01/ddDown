@@ -6,5 +6,5 @@ sudo apt update
 
 sudo apt install hping3
 sudo apt install nmap
-
-wget https://github.com/Tokumei01/ddDown.git
+cd /home/pi/Downloads
+source /home/pi/Downloads/Exec.sh
